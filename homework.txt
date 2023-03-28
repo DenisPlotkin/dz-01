@@ -6,3 +6,4 @@ lesson 5
 lesson 6
 github
 docker compose
+javascript
