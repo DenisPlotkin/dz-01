@@ -7,3 +7,5 @@ lesson 6
 github
 docker compose
 javascript
+
+hello world
